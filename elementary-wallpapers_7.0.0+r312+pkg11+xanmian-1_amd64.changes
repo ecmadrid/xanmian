@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Mon, 1 Apr 2024 07:41:00 +0200
+Source: elementary-wallpapers
+Binary: elementary-wallpapers
+Architecture: all
+Version: 7.0.0+r312+pkg11+xanmian-1
+Distribution: noble
+Urgency: low
+Maintainer: elementary, Inc. <builds@elementary.io>
+Changed-By: Juan Sánchez <xanmianlinux@gmail.com>
+Description:
+ elementary-wallpapers - elementary OS Wallpapers
+Changes:
+ elementary-wallpapers (7.0.0+r312+pkg11+xanmian-1) noble; urgency=low
+ .
+   * Build for Xnmian.
+Checksums-Sha1:
+ 79ded8f7f155d4ad43bf94bef474f787ecb91e71 59599684 elementary-wallpapers_7.0.0+r312+pkg11+xanmian-1_all.deb
+ a3e803428e065bc2e4db785a71ed2fcd25b5b5eb 6916 elementary-wallpapers_7.0.0+r312+pkg11+xanmian-1_amd64.buildinfo
+Checksums-Sha256:
+ 26d52666fa3a8ca05d0e445f7e449a12d936d36fe7bf70531f1d4277d7687604 59599684 elementary-wallpapers_7.0.0+r312+pkg11+xanmian-1_all.deb
+ c3c7238d5922de99e5124a2aad7db4e68adcb87428d0f7021084297a54d773b4 6916 elementary-wallpapers_7.0.0+r312+pkg11+xanmian-1_amd64.buildinfo
+Files:
+ 67953ca28b4df08c6f1cbb6a7f2977c2 59599684 x11 optional elementary-wallpapers_7.0.0+r312+pkg11+xanmian-1_all.deb
+ d522965dd1efe9ea96e1531f6c8edeed 6916 x11 optional elementary-wallpapers_7.0.0+r312+pkg11+xanmian-1_amd64.buildinfo

@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 31 Mar 2024 12:09:00 +0200
+Source: base-files
+Binary: base-files
+Architecture: source amd64
+Version: 12.999+xanmian
+Distribution: bookworm
+Urgency: medium
+Maintainer: Santiago Vila <sanvila@debian.org>
+Changed-By: Juan Sánchez <xanmian@gmail.com>
+Description:
+ base-files - Debian base system miscellaneous files
+Changes:
+ base-files (12.999+xanmian) bookworm; urgency=medium
+ .
+   * Form for Xanmian.
+Checksums-Sha1:
+ c0fcd140ddc32779e96eb173b187ef1173e920e3 603 base-files_12.999+xanmian.dsc
+ b1a653bff78b2c9535214adfac26cae0f9c97837 66128 base-files_12.999+xanmian.tar.xz
+ da3764b29231f30ec66fcaec5156aa17f54c2dd7 4918 base-files_12.999+xanmian_amd64.buildinfo
+ 4c30e5b527bc8fa25dd7190d8cf7c52bc2da51be 70824 base-files_12.999+xanmian_amd64.deb
+Checksums-Sha256:
+ af38029a3c50c2a757be2532c0c39c11c06a2bb6150c1d683e6d4affd3d78b56 603 base-files_12.999+xanmian.dsc
+ 499d8330940bb24640f39f39d0af471d1d0625b610bc9feb2008d946a3687d9a 66128 base-files_12.999+xanmian.tar.xz
+ 4e27c6df17cca56510ad114313b2467479caf55512540247eb74b5cab6812090 4918 base-files_12.999+xanmian_amd64.buildinfo
+ c9f85aee9e941a03af742a371e57be6bc8c7cf77a725b31c94512200bbeef785 70824 base-files_12.999+xanmian_amd64.deb
+Files:
+ eaa3d54134c69963277ab64dfb81f302 603 admin required base-files_12.999+xanmian.dsc
+ b37accb6d3d856138a723016d1731992 66128 admin required base-files_12.999+xanmian.tar.xz
+ 2f7196960c5e5aba8964038c0d2654b1 4918 admin required base-files_12.999+xanmian_amd64.buildinfo
+ 9be5234d5cf0b56d6e8d8747f50e7940 70824 admin required base-files_12.999+xanmian_amd64.deb
