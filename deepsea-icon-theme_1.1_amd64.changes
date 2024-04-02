@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 26 Mar 2021 11:45:00 -0400
+Source: deepsea-icon-theme
+Binary: deepsea-icon-theme
+Architecture: source all
+Version: 1.1
+Distribution: unstable
+Urgency: medium
+Maintainer: fsmithred <fsmithred@gmail.com>
+Changed-By: fsmithred <fsmithred@gmail.com>
+Description:
+ deepsea-icon-theme - Devuan's Deepsea icon theme.
+Changes:
+ deepsea-icon-theme (1.1) unstable; urgency=medium
+ .
+   * Link better panel icons for theme.
+Checksums-Sha1:
+ 745230776459bb0c40610d5b7eec763ca515cc5d 530 deepsea-icon-theme_1.1.dsc
+ b3e946f35fad32b04182e4a3e49b479b2d40a2b0 9907762 deepsea-icon-theme_1.1.tar.gz
+ 0e6cb31f8940ec23c3f957f5990c4913e0aa8784 9653720 deepsea-icon-theme_1.1_all.deb
+ deaa747a5a2c67473051926bd595bf73ed12ed0f 5333 deepsea-icon-theme_1.1_amd64.buildinfo
+Checksums-Sha256:
+ c6c1de6b7299041bcab717f8d2d3245b91cf43f159b4703d4116d1b044417c56 530 deepsea-icon-theme_1.1.dsc
+ 0011523b56b1431e3209a95676b476453abe73b2f7949e9b45f74c9076e8d97e 9907762 deepsea-icon-theme_1.1.tar.gz
+ 23e185fcb16043a0e86baa875332722b2b30206d5ce5850777b3b684b5ea45c2 9653720 deepsea-icon-theme_1.1_all.deb
+ d05129730d4e68f7dd43bf9e9488b4c648d26f8f5e5cb778d635d781f838c5c0 5333 deepsea-icon-theme_1.1_amd64.buildinfo
+Files:
+ 6443ad8aa7ead3d8d66b98c208cea712 530 misc optional deepsea-icon-theme_1.1.dsc
+ 4cb4545cfb5c756bf30536de34efa9ca 9907762 misc optional deepsea-icon-theme_1.1.tar.gz
+ 567241e22b89783fdc356f3b6f750247 9653720 x11 optional deepsea-icon-theme_1.1_all.deb
+ dcb1bc4226221c1741e7d6f3bf05dbd2 5333 misc optional deepsea-icon-theme_1.1_amd64.buildinfo
