@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Tue, 09 Jan 2024 09:26:57 +0000
+Source: xanmian-locale
+Binary: xanmian-locale
+Architecture: source all
+Version: 1.0
+Distribution: bookworm
+Urgency: medium
+Maintainer: Juan Sánchez <xanmianlinux@gmail.com>
+Changed-By: Clement Lefebvre <root@linuxmint.com>
+Description:
+ xanmian-locale - Language selection tool
+Changes:
+ xanmian-locale (1.0) bookworm; urgency=medium
+ .
+   * Forked from mintlocale.
+   * Adapted to Debian including firefox-esr, firefox from MX Linux and chromium.
+   * Removed dependency of iso flags from Mint and use default Debian iso flags.
+  mintlocale (1.5.9) virginia; urgency=medium
+ .
+   * langpacks: Remove openoffice.org-hyphenation
+Checksums-Sha1:
+ f308c8002fab3789521b8486ca060fa157746a8e 543 xanmian-locale_1.0.dsc
+ f655e064584f8156aa7476e907543aaa105e2aef 59700 xanmian-locale_1.0.tar.xz
+ 3c7083b5c8c2061a2d73c8f6346d5eedd2f8768b 44868 xanmian-locale_1.0_all.deb
+ b0145247e20bc4b84a70d2a7399f2b037fb7c9eb 5055 xanmian-locale_1.0_amd64.buildinfo
+Checksums-Sha256:
+ 5afea8601245faa22c975f07b09ab5ad38be0cc3ee0c744b96c9bbf01146b081 543 xanmian-locale_1.0.dsc
+ 5fe1ae30bd4023a60dd4abf00ecb4b661451bf9c28048e0af6a77af7e23b7e96 59700 xanmian-locale_1.0.tar.xz
+ 4a15f7783a6ffbe2957065f10cbeefbe3ae0ff71add2936f5fa8b6e26fb6da8c 44868 xanmian-locale_1.0_all.deb
+ ad5bf624ba8e38444421af919086fad0463c4247bc5c6e550183c9a02d0e11b7 5055 xanmian-locale_1.0_amd64.buildinfo
+Files:
+ 0f57d6a8245892166daaf209ae61a13d 543 admin optional xanmian-locale_1.0.dsc
+ 70ccec64a40673027e26e07e921309ec 59700 admin optional xanmian-locale_1.0.tar.xz
+ 22dbb71b1c1b60f5a683e998281b2e1f 44868 admin optional xanmian-locale_1.0_all.deb
+ 78fd8c37809ffcbdac741aadd8bdec06 5055 admin optional xanmian-locale_1.0_amd64.buildinfo

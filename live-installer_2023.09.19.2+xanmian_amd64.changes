@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 01 Apr 2024 19:33:00 +0200
+Source: live-installer
+Binary: live-installer
+Architecture: source all
+Version: 2023.09.19.2+xanmian
+Distribution: bookworm
+Urgency: medium
+Maintainer: Juan Sánchez <xanmianlinux@gmail.com>
+Changed-By: Juan Sánchez <xanmianlinux@gmail.com>
+Description:
+ live-installer - Live Installer
+Changes:
+ live-installer (2023.09.19.2+xanmian) bookworm; urgency=medium
+ .
+   * Fork: Forked for Xanmian.
+Checksums-Sha1:
+ 4a83930e08f880b85f97f6837fec3d91a0564b42 730 live-installer_2023.09.19.2+xanmian.dsc
+ 6e111d27c5eb3adeecf4f63f1c3210aab4fe7110 1984528 live-installer_2023.09.19.2+xanmian.tar.xz
+ 6a8affc8dda78b2c1f8ea732ec7ea6cd0879017e 1995632 live-installer_2023.09.19.2+xanmian_all.deb
+ b4fa52e5663906a64aa1c714daa0b3df87ace1aa 5180 live-installer_2023.09.19.2+xanmian_amd64.buildinfo
+Checksums-Sha256:
+ 9dd02591911db06c8ca20b1e060a6c7d4c117b17588cc6e4307763d5d87b67a0 730 live-installer_2023.09.19.2+xanmian.dsc
+ f8b8a3a93fcabedacc4561f031202bfa686b77c563ec875c46b8ccd2f3d2d35c 1984528 live-installer_2023.09.19.2+xanmian.tar.xz
+ 6bd590c83327504afd8672ebb9dc3f117311a2c027e43b37ca2afaae2fa18ad9 1995632 live-installer_2023.09.19.2+xanmian_all.deb
+ 6c0e4b3058027bbae48aed8d4b564a22df2bf5cffdb7e1c6b4b5c98fd892402e 5180 live-installer_2023.09.19.2+xanmian_amd64.buildinfo
+Files:
+ fdaddd81670fd0bbf0ead36e872dd8f6 730 admin optional live-installer_2023.09.19.2+xanmian.dsc
+ 4c4824aa4f0eac303a63f9811871b030 1984528 admin optional live-installer_2023.09.19.2+xanmian.tar.xz
+ 60d3a0ce705aff7fd7e39ff444ae7ee1 1995632 admin optional live-installer_2023.09.19.2+xanmian_all.deb
+ f47d84f953fe8bb4602d1bb80f673b2a 5180 admin optional live-installer_2023.09.19.2+xanmian_amd64.buildinfo

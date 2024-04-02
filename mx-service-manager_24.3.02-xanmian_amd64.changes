@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 31 Mar 2024 14:34:00 +0200
+Source: mx-service-manager
+Binary: mx-service-manager
+Architecture: amd64
+Version: 24.3.02-xanmian
+Distribution: mx
+Urgency: medium
+Maintainer: Juan Sánchez <xanmianlinux@gmail.com>
+Changed-By: Juan Sánchez <xanmianlinux@gmail.com>
+Description:
+ mx-service-manager - mx-service-manager
+Changes:
+ mx-service-manager (24.3.02-xanmian) mx; urgency=medium
+ .
+   * Adapted for generic.
+Checksums-Sha1:
+ 82e06947f8cf4072d35df6a45ed7034878e3e196 10297 mx-service-manager_24.3.02-xanmian_amd64.buildinfo
+ 114e50c3d28632471394f3925549acd264fdc784 72788 mx-service-manager_24.3.02-xanmian_amd64.deb
+Checksums-Sha256:
+ b055cc15cd8f58104a62d5092a138cd7128ecf97064ae0e1683d873648785727 10297 mx-service-manager_24.3.02-xanmian_amd64.buildinfo
+ 00d13c0d7192f8cc5ce510ad8a6eedde78501e9d65820199a34d2bd6804e43d0 72788 mx-service-manager_24.3.02-xanmian_amd64.deb
+Files:
+ ac6eb46ece8c66f40c17fdb5cbcb49dc 10297 admin optional mx-service-manager_24.3.02-xanmian_amd64.buildinfo
+ 1c78a3ac67a1e54fd5fbfd54aa4d92f5 72788 admin optional mx-service-manager_24.3.02-xanmian_amd64.deb
